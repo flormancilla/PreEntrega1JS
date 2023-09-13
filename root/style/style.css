@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "titulos";
+    src: url(../assets/fonts/Sunday\ Mango.ttf);
+}
+
+body {
+    background-color: pink;
+    font-family: "titulos";
+}
